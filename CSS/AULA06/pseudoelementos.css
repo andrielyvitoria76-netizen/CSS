@@ -1,0 +1,13 @@
+.primeiro::after {
+content: "Turma 01";
+}
+
+.primeiro::before {
+content: "Andriely - ";
+}
+.segundo::first-letter {
+font-size: 20px;
+color: rgb(91, 14, 126);
+font-weight: 600;
+font-family: 'Times New Roman', Times, serif;
+}

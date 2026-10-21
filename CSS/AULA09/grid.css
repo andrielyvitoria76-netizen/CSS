@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+}
+
+.container {
+    height: 100vh;
+    border: 1px solid;
+    background-color: beige;
+
+    display: grid;
+    grid-template-columns: repeat (4,1fr);
+    grid-template-rows: repeat (4,1fr);
+    grid-template-areas: 
+    "header header header header"
+    "main main main aside"
+    "main main main aside"
+    "footer footer footer footer"
+    ;
+}
+.box1 {
+    background-color:red ;
+    grid-area: header;
+}
+
+.box2 {
+    background-color:green ;
+    grid-area: main;
+}
+
+.box3 {
+    background-color:blue ;
+    grid-area: aside;
+}
+
+.box4 {
+    background-color: yellow;
+    grid-area: footer;
+}

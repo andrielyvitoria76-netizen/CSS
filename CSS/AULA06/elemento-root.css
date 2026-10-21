@@ -1,0 +1,19 @@
+:root {
+    /* nomeVarialvel - camelCase */
+    /*nome-Variavel - kebab */
+    /*nome_Variavel - snake_cas */
+
+   --cor-primaria: rgb(22, 32, 122);
+   --cor-texto: rgb(20, 119, 23);
+   --font-padrao:28px;
+}
+
+h1 {
+    color: var(--cor-primaria);
+}
+
+p {
+    color: var(--cor-texto);
+    background-color: var(--cor-primaria);
+    font-size: var(--font-padrao);
+}

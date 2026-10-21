@@ -1,0 +1,24 @@
+input:focus {
+    background-color: burlywood;
+    color: steelblue;
+}
+
+a:active {
+    color: yellow;
+}
+div {
+    background-color: brown;
+    color: aliceblue;
+    height: 200px;
+    width: 200px;
+    padding: 25%;
+    box-sizing: border-box;
+}
+
+.box:hover {
+ background-color: rgb(242, 237, 237);
+    color: red;
+    height: 200px;
+    width: 200px;
+    border-radius: 30px;
+}

@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Megrim&family=Rouge+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Megrim&family=Rouge+Script&display=swap');
+
+ body {
+    background-color: #611019;
+ }
+
+ h1{
+     color:#160909;
+     font-family: 'Times New Roman', Times, serif;
+     font-size: 35px;
+ }
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(147, 133, 133);
+    font-size: 16px;
+    /* font-weight: 900; */
+    line-height: 200%;
+    text-align:center;
+}
+span {
+    font-weight: bold;
+}

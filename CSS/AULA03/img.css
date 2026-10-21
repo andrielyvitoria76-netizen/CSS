@@ -1,0 +1,32 @@
+body {
+    background-color: antiquewhite;
+    
+    background-image: url("./depositphotos_228845144-stock-photo-particle-embers-isolated-border-smoke.jpg");
+  background-size: cover;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+img {
+    height: 300px;
+    filter: drop-shadow(5px 5px 5px rgb(233, 237, 233));
+}
+
+figure {
+text-align: center;
+margin: 0 auto;
+width: 400px;
+border: 1px solid;
+background-color:rgb(126, 21, 21) ;
+
+}
+
+figcaption {
+margin: 5px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 18px;
+font-style: italic;
+color: blanchedalmond;
+text-shadow: 5px 5px 5px white;
+}

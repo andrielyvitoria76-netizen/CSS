@@ -1,0 +1,27 @@
+.box1 {
+    width: 250px;
+    height: 250px;
+    background-color: deeppink;
+    border: 5px double rgb(4, 78, 252);
+    border: 5px dotted green; 
+}
+.box2 {
+margin: 10px;
+width: 250px;
+height: 250px;
+
+background-color: coral;
+border-top:5px double red ;
+border-right:10px dashed black;
+border-bottom:5px solid blue ;
+border-left: 10px dotted pink ;
+
+border-radius: 10px;
+}
+
+
+h1 {
+    /* border: 5px splid pink; */
+border-top: 2px solid pink;
+border-right: 5px double red;
+}

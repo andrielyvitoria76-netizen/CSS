@@ -1,0 +1,11 @@
+h1 {
+    color: rgb(45, 35, 35);
+    text-shadow: 5px 5px 5px rgb(249, 4, 4);
+}
+
+p {
+    text-align: justify;
+    line-height: 200%;
+    font-weight: 900;
+    font-style: italic;
+}

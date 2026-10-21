@@ -1,0 +1,54 @@
+@media screen and (max-width: 500px) {
+    .nome1 {
+        color: #ff7f50;
+        font-size: 20px;
+        text-align: center;
+    }
+}
+
+@media print and (max-width: 800px) {
+    .nome2 {
+        color: #39c506;
+        font-size: 20px;
+        text-align: right;
+    }
+}
+
+@media (max-width: 600px) {
+    .nome3 {
+        color: #1e06b5;
+        font-weight: 800;
+        text-align: left;
+    }
+}
+
+@media (min-width: 700px) {
+    .nome4 {
+        color: #850583;
+        text-align: left;
+        background-color: darkgrey;
+    }
+}
+
+@media (orientation: landscape) {
+    body {
+        background-color: black;
+        color: white;
+    }
+
+    .nome5 {
+        color: greenyellow;
+        text-align: center;
+    }
+}
+
+/* 750 - 780*/
+
+@media (min-width: 750px) and (max-width:780px) {
+    .name6 {
+        color: plum;
+        font-weight: 900;
+        text-align: center;
+        font-size: 30px;
+    }
+}

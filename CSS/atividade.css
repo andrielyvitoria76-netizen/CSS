@@ -1,0 +1,26 @@
+nav {
+    margin: 0%;
+    height: 10vh;
+    background-color: beige
+}
+
+ul {
+list-style:none;
+}
+
+li {
+    display: inline-block;
+    background-color: azure;
+}
+
+a {
+    text-decoration: none;
+    margin: 15px;
+    color: red;
+}
+
+a:hover {
+    text-decoration: none;
+    margin: 15px;
+    color: azure;
+}
